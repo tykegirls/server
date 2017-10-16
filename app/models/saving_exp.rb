@@ -1,0 +1,2 @@
+class SavingExp < ApplicationRecord
+end

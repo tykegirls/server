@@ -1,0 +1,2 @@
+class FixedExp < ApplicationRecord
+end

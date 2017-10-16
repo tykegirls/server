@@ -1,0 +1,2 @@
+class SmallCate < ApplicationRecord
+end

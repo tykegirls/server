@@ -1,0 +1,2 @@
+class BigCate < ApplicationRecord
+end
